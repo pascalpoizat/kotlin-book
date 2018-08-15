@@ -1,6 +1,8 @@
-# IntelliJ
+# IntelliJ IDEA
 
 .idea
+out
+kotlin-book.iml
 
 # Compiled class file
 *.class
