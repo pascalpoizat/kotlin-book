@@ -10,4 +10,5 @@ The examples can be tried as follows:
     println(person.name)
     ```
 
-- [x] chapter 2 (basics, `val` vs `var`, string templates, value-object classes, enums, smart cast with `is`, ranges, conditionals including `when`, loops, exceptions)
+- [x] chapter 2 (basics, `val` vs `var`, string templates, functions, value-object classes, enums, smart cast with `is`, ranges, conditionals including `when`, loops, exceptions)
+- [x] chapter 3 (collections, strings including multi-line strings, regex, named arguments, default parameter values, infix call syntax, destructuring declarations, extension functions and properties, structuring code)
